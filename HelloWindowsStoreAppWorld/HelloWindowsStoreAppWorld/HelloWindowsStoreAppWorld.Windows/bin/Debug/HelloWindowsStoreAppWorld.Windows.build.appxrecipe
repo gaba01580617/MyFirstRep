@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OKUBO-KIRA</Machine>
+    <WindowsUser>照樹</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>68b00fc0-146d-4520-b84e-2c3dec4164a9</PackageIdentityName>
+    <IntermediateOutputPath>C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\bin\Debug\HelloWindowsStoreAppWorld.Windows.exe">
+      <PackagePath>HelloWindowsStoreAppWorld.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\bin\Debug\HelloWindowsStoreAppWorld.Windows.xr.xml">
+      <PackagePath>HelloWindowsStoreAppWorld.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
