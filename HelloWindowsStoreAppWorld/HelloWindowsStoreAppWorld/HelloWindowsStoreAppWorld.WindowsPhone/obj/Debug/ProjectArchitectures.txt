@@ -1,1 +1,0 @@
-C:\work\Reps\MyFirstRep\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld\HelloWindowsStoreAppWorld.WindowsPhone\HelloWindowsStoreAppWorld.WindowsPhone.csproj;neutral
